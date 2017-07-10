@@ -1,0 +1,2 @@
+# yahoo_chiebukuro_line_bot
+キャッチーなYahoo!知恵袋を返してくれるLINE bot
